@@ -18,6 +18,7 @@
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.8.0/bin/node">
       <version-cache version="5.8.0" last-modified="1457492119000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v5.8.0/lib/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.7.0/bin/node">
       <version-cache version="5.7.0" last-modified="1456201441000" />
@@ -30,6 +31,7 @@
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.8.0/bin/nodemon">
       <version-cache version="1.9.2" last-modified="1461961903000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v5.8.0/lib/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
